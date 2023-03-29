@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\operatorOverload3\bin\Debug\net6.0\operatorOverload3.exe
+C:\Users\jacob\source\repos\operatorOverload3\bin\Debug\net6.0\operatorOverload3.deps.json
+C:\Users\jacob\source\repos\operatorOverload3\bin\Debug\net6.0\operatorOverload3.runtimeconfig.json
+C:\Users\jacob\source\repos\operatorOverload3\bin\Debug\net6.0\operatorOverload3.dll
+C:\Users\jacob\source\repos\operatorOverload3\bin\Debug\net6.0\operatorOverload3.pdb
+C:\Users\jacob\source\repos\operatorOverload3\obj\Debug\net6.0\operatorOverload3.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\operatorOverload3\obj\Debug\net6.0\operatorOverload3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\operatorOverload3\obj\Debug\net6.0\operatorOverload3.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\operatorOverload3\obj\Debug\net6.0\operatorOverload3.AssemblyInfo.cs
+C:\Users\jacob\source\repos\operatorOverload3\obj\Debug\net6.0\operatorOverload3.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\operatorOverload3\obj\Debug\net6.0\operatorOverload3.dll
+C:\Users\jacob\source\repos\operatorOverload3\obj\Debug\net6.0\refint\operatorOverload3.dll
+C:\Users\jacob\source\repos\operatorOverload3\obj\Debug\net6.0\operatorOverload3.pdb
+C:\Users\jacob\source\repos\operatorOverload3\obj\Debug\net6.0\operatorOverload3.genruntimeconfig.cache
+C:\Users\jacob\source\repos\operatorOverload3\obj\Debug\net6.0\ref\operatorOverload3.dll
